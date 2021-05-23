@@ -47,7 +47,7 @@ links.map(link => {
       left: 0,
     });
 
-    menu.classList.remove("show");
+    gallery.classList.remove("show");
   });
 });
 
